@@ -1,2 +1,2 @@
 qa_java
-QA Java Project1 
+QA Java Project2
